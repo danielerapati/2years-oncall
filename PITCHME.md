@@ -39,6 +39,13 @@ Who was actually called in the last month?
 If you raised your hand before but not now, well you are living the dream:
 "Money for nothing and chips for free"
 
+
+Alternative take on an intro:
+
+this is a talk about carrying a pager, being available to respond in case something breaks, being on call
+
+but I also talk quite seriously about a tv series and there is an embarrassingly high number of pictures of my cats
+
 ---
 Menu
 ----
