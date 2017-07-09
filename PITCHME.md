@@ -83,14 +83,14 @@ but secretly it hates you ...
 
 +++
 
-<---- photo of my cat Hestia looking bad at me
+![My Cat Looks Bad at Me](assets/i-hate-you-human-cropped.jpg)
 
 Note:
 ... and when it needs you, you will have to give it your full attention, immediately
 
 +++
 
-<---- photo of Hestia looking up at me, asking
+![My Cat Wants Something](assets/hestia-asks-cropped.jpg)
 
 +++
 Ownership
@@ -275,7 +275,7 @@ investigate the cause of a failure but just to skip the data integration step, i
 
 ---
 
-<---- Downton Abbey cast photo
+![Downton Abbey](assets/downton-abbey.jpeg)
 
 Note:
 lets take a step back to 2015 and a broader view
@@ -385,7 +385,7 @@ Nothing else matters.
 Together we can go anywhere
 ---------------------------
 
-<---- photo of Hestia and Filo on my backpack
+![My Cats are Ready for the Next Adventure](assets/ready-to-go.jpg)
 
 ---
 
@@ -509,6 +509,8 @@ Resources
 Thank you
 
 Questions?
+
+![Tough Love](assets/tough-love.jpg)
 
 Note:
 thank you particularly to those ops, dev-ops and engineers who have been on-call for years
