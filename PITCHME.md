@@ -63,7 +63,7 @@ more serious people would call these "case studies"
 
 +++
 
-<--- picture of a case
+![A Case](assets/case.jpg)
 
 Note:
 I see nothing worth studying here
@@ -72,8 +72,9 @@ I see nothing worth studying here
 
 What does it mean to be on call?
 --------------------------------
-
-<--- picture of a phone (cartoonish if possible)
+<div style="width: 30%; margin-left: 35%">
+![A Phone](assets/mobile.png)
+</div>
 
 Note:
 The actual tool may vary: some refer to this as "carrying a pager"
@@ -104,8 +105,9 @@ rewards like being woken up in the middle of the night
 ---
 What do you do when the phone rings?
 ------------------------------------
-<--- ? picture of a phone ringing (cartoonish)
-
+<div style="width:50%; margin-left: 25%">
+![Riiiing!](assets/ringing.png)
+</div>
 Note:
 << underlying story: call on 6th July 2017 >>
 the phone rang around 1:15 in the morning Thursday last week
@@ -242,9 +244,9 @@ There is always some lesson to learn for the future
 Insights
 --------
 
-Systems break at junctures
+Incidents are more frequent at junctures
 
-<---- picture of a traffic jam at an highway inbound juncture
+![Sdeng](assets/incident.jpg)
 
 Note:
 Especially if the juncture is with a third party, where communication is more scarce
@@ -269,9 +271,7 @@ fields we use to see if Google deprecated any other.
 But we also rewrote the alert message to include a specific recommendation not to
 investigate the cause of a failure but just to skip the data integration step, if possible.
 
----
-
-![Downton Abbey](assets/downton-abbey.jpeg)
+---?image=assets/downton-abbey.jpeg&size=100% auto
 
 Note:
 lets take a step back to 2015 and a broader view
@@ -363,7 +363,9 @@ with less control on your priorities and less agility as you have to react more.
 
 Allow others to build on solid ground
 
-<---- photo of a human pyramid?
+<div style="width: 50%; margin-left: 25%">
+![Human Tower](assets/tower.jpg)
+</div>
 
 Note:
 (this is the message!!!)
@@ -425,7 +427,9 @@ Monitoring: Systems
 
 if you care about something measure it and graph it
 
-<---- cartoonish image of a "control station" from the 50s
+<div style="width: 50%; margin-left: 25%">
+![Monitoring](assets/control.jpg)
+</div>
 
 Note:
 the next step is moving from gathering information only during failures to a
@@ -439,13 +443,19 @@ You can then plug your alerting on top of your monitoring rather than explicitly
 
 <The system we use for this is Datadog, there are multiple alternatives, both paid and free.>
 
-+++
-Monitoring: Data
-----------------
++++?image=assets/1972-11-21.jpg&size=auto 95%
+
+<div style="color: #fff; margin-top: -5%">
+<h3 style="color: #fff">Monitoring: Data</h3>
+
 Data Quality
 
-<----- the same cartoonish image of a control station but much bigger with a lot more monitors and
-controls
+<br>
+<br>
+<br>
+<br>
+
+</div>
 
 Note:
 The next step, and is really a powerful step, is monitoring your data itself.
@@ -504,7 +514,7 @@ Resources
 
 ---?image=assets/tough-love.jpg&size=auto 95%
 
-<div style="margin-top: 60%;">
+<div style="margin-top: 52%;">
 <h3>Thank you</h3>
 <h3>Questions?</h3>
 </div>
