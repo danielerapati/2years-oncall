@@ -81,16 +81,12 @@ The actual tool may vary: some refer to this as "carrying a pager"
 Basically it something that you have to carry with you and care for
 but secretly it hates you ...
 
-+++
-
-![My Cat Looks Bad at Me](assets/i-hate-you-human-cropped.jpg)
++++?image=assets/i-hate-you-human-cropped.jpg&size=auto 90%
 
 Note:
 ... and when it needs you, you will have to give it your full attention, immediately
 
-+++
-
-![My Cat Wants Something](assets/hestia-asks-cropped.jpg)
++++?image=assets/hestia-asks-cropped.jpg&size=auto 90%
 
 +++
 Ownership
@@ -385,8 +381,9 @@ Nothing else matters.
 Together we can go anywhere
 ---------------------------
 
-![My Cats are Ready for the Next Adventure](assets/ready-to-go.jpg)
-
+<div style="width: 50%; margin-left: 25%">
+![Ready To Go](assets/ready-to-go.jpg)
+</div>
 ---
 
 How do you make sure the phone rings when it should?
@@ -493,6 +490,7 @@ This is just the beginning
 --------------------------
 
 <---- inspiring image
+
 <---- or Filo / Hestia again?
 
 ---
@@ -504,13 +502,12 @@ Resources
 
 <- redash page and Arik's podcast episode>
 
----
+---?image=assets/tough-love.jpg&size=auto 95%
 
-Thank you
-
-Questions?
-
-![Tough Love](assets/tough-love.jpg)
+<div style="margin-top: 60%;">
+<h3>Thank you</h3>
+<h3>Questions?</h3>
+</div>
 
 Note:
 thank you particularly to those ops, dev-ops and engineers who have been on-call for years
