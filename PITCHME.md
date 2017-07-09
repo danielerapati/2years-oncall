@@ -57,7 +57,10 @@ Stories
 - Downtown Abbey advert weekend: October 2015
 
 Note:
+In the spirit of "Total Transparency" these are real incidents
+
 more serious people would call these "case studies"
+
 +++
 
 <--- picture of a case
@@ -136,14 +139,17 @@ you want to stop as soon as you can describe the error that has woken you up
 impact
 ------
 
-- assess the consequences
-- (if necessary) inform stakeholders
+assess the consequences
+
+(if necessary) inform stakeholders
 
 +++
 "Why?"
 ------
 
-is the wrong question
++++
+
+is the WRONG question
 ---------------------
 
 Note:
@@ -154,7 +160,7 @@ if you ask it you are going to spend an unknown amount of time on this question 
 
 +++
 Log as you go along
--------------------
+
 <---- screenshots from my ramblings on Slack
 ... and so on for 3 hours ...
 
@@ -165,8 +171,9 @@ this is invaluable (especially if you are preparing a talk on being on call)
 +++
 Act: resolve
 ------------
-- limit the impact
-- do not address the root cause
+limit the impact
+
+do not address the root cause
 
 Note:
 lets scroll back and read what I did last week ...
@@ -184,8 +191,9 @@ the data available on time.
 +++
 It is done
 ----------
-- inform stakeholders
-- get back to sleep
+inform stakeholders
+
+get back to sleep
 
 Note:
 you want to be fresh for the next day
@@ -357,11 +365,13 @@ with less control on your priorities and less agility as you have to react more.
 
 +++
 
-- Allowing others to build on solid ground (this is the message!!!)
+Allow others to build on solid ground
 
 <---- photo of a human pyramid?
 
 Note:
+(this is the message!!!)
+
 but in the end it will be worth it because you are enabling others to rely on your
 tools and data enough to build upon them. Their success depends on your stability
 and you will be surprised by the brilliant, creative, unexpected ways they will
@@ -483,6 +493,7 @@ This is just the beginning
 --------------------------
 
 <---- inspiring image
+<---- or Filo / Hestia again?
 
 ---
 Resources
@@ -490,6 +501,7 @@ Resources
 - Julia Evans's twitter storm
 - best practices for RCA, look into Daniel Bryant's twitter / blog?
 - something good on Data Quality
+
 <- redash page and Arik's podcast episode>
 
 ---
