@@ -12,7 +12,7 @@ Daniele Rapati
 
 [notonthehighstreet.com](https://www.notonthehighstreet.com/pages/careers-page)
 
-[github](https://github.com/danielerapati)
+[github/danielerapati](https://github.com/danielerapati)
 
 Note:
 I am Daniele. I work for notonthehighstreet in Richmond.
@@ -166,8 +166,11 @@ if you ask it you are going to spend an unknown amount of time on this question 
 +++
 Log as you go along
 
-<---- screenshots from my ramblings on Slack
+![Slack Start of Incident](assets/slack-log1.png)
+
 ... and so on for 3 hours ...
+
+![Slack Bad Decision](assets/slack-log2.png)
 
 Note:
 document what you found, what you are doing, what you are thinking, why you think it,
@@ -539,4 +542,4 @@ Daniele Rapati
 
 [notonthehighstreet.com](https://www.notonthehighstreet.com/pages/careers-page)
 
-[github](https://github.com/danielerapati)
+[github/danielerapati](https://github.com/danielerapati)
