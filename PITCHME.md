@@ -28,6 +28,12 @@ Also it is where the Rolling Stones formed and some of us care a lot about the R
 
 
 Note:
+this is a talk about carrying a pager, being available to respond in case something breaks, being on call.
+If you are a devops or a developer you might already know something about it and if you are a data engineer
+I am going to make a case for why you should care about this.
+
+But I also talk quite seriously about a tv series and there is an embarrassingly high number of pictures of my cats.
+
 As usual for a Friday evening talk I'm going to warm you up by asking a question
 and you are going to raise your hands to answer.
 Who is on call right now?
@@ -39,12 +45,6 @@ Who was actually called in the last month?
 If you raised your hand before but not now, well you are living the dream:
 "Money for nothing and chips for free"
 
-
-Alternative take on an intro:
-
-this is a talk about carrying a pager, being available to respond in case something breaks, being on call
-
-but I also talk quite seriously about a tv series and there is an embarrassingly high number of pictures of my cats
 
 ---
 Menu
@@ -60,7 +60,7 @@ Menu
 +++
 Stories
 ------------
-- Google Analytics data integration failure on 2017/07/06
+- Google Analytics data integration failure on 2017-07-06
 - Downtown Abbey advert weekend: October 2015
 
 Note:
@@ -79,7 +79,7 @@ What does it mean to be on call?
 Note:
 The actual tool may vary: some refer to this as "carrying a pager"
 
-Basically it something that you have to carry with you and care for
+Basically it has to do with something that is with you at all times and you care for
 but it secretly hates you ...
 
 +++?image=assets/i-hate-you-human-cropped.jpg&size=auto 90%
