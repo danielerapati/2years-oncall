@@ -15,7 +15,7 @@ Daniele Rapati
 [github/danielerapati](https://github.com/danielerapati)
 
 Note:
-I am Daniele. I work for notonthehighstreet in Richmond.
+I am Daniele. I work for notonthehighstreet in Richmond. We are a marketplace for small creative businesses.
 
 Richmond is the best part of London, there are incredible parks and river-side pubs.
 It doesn't feel like London at all, it feels like a country village,
@@ -68,13 +68,6 @@ In the spirit of "Total Transparency" these are real incidents
 
 more serious people would call these "case studies"
 
-+++
-
-![A Case](assets/case.jpg)
-
-Note:
-I see nothing worth studying here
-
 ---
 
 What does it mean to be on call?
@@ -87,14 +80,14 @@ Note:
 The actual tool may vary: some refer to this as "carrying a pager"
 
 Basically it something that you have to carry with you and care for
-but secretly it hates you ...
+but it secretly hates you ...
 
 +++?image=assets/i-hate-you-human-cropped.jpg&size=auto 90%
 
++++?image=assets/hestia-asks-cropped.jpg&size=auto 90%
+
 Note:
 ... and when it needs you, you will have to give it your full attention, immediately
-
-+++?image=assets/hestia-asks-cropped.jpg&size=auto 90%
 
 +++
 Ownership
@@ -121,12 +114,18 @@ the phone rang around 1:15 in the morning Thursday last week
 
 +++
 
-wake up, wake up
+> "wake up, wake up
+>
+> grab a brush and put a little makeup"
+>
+> S.O.D.
 
 Note:
 grab a brush and put a little makeup,
 hide the scars and fade away the shakeup
 have you left your keys on the table?
+
+get to your computer, make coffee or tea, make sure you are awake
 
 +++
 gather information
@@ -344,7 +343,7 @@ for our coworkers, especially as a source of information for making decisions.
 
 +++
 
-You are offering external services
+When you are offering external services
 
 Note:
 You most likely want to support public facing services with an on-call policy.
@@ -365,6 +364,9 @@ But even for internal services there can be a strong benefit
 Your coworkers will have to worry less and less about limitations with
 the tools and data they are using. They will see benefits in their daily work
 and will increase their trust not only in your services but in the team as a whole.
+
+It is not just about keeping happy Mr Carson, the Butler.
+We also want Daisy the assistant cook the be the best she can be at her job.
 
 You might pay this increase in trust, and supporting an external service,
 with less control on your priorities and less agility as you have to react more.
@@ -511,7 +513,7 @@ This is just the beginning
 
 <---- inspiring image
 
-<---- or Filo / Hestia again?
+<---- or Filo / Estia again?
 
 ---
 Resources
