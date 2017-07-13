@@ -27,13 +27,12 @@ Also Richmond is where the Rolling Stones formed and some of us care a lot about
 
 [gitpitch.com/danielerapati/2years-oncall](https://gitpitch.com/danielerapati/2years-oncall)
 
-
 Note:
 this is a talk about carrying a pager, being available to respond in case something breaks, being on call.
-If you are a devops or a developer you might already know something about this argument and if you are a data engineer
+If you are a devops or a developer you might already know something about this topic and if you are a data engineer
 I am going to make a case for why you should care about this.
 
-But I also talk quite seriously about a tv series and there is an embarrassingly high number of pictures of my cats.
+But I also talk quite seriously about a TV series and there is an embarrassingly high number of pictures of my cats.
 
 As usual for a Friday evening talk I'm going to warm you up by asking a question
 and you are going to raise your hands to answer.
@@ -45,7 +44,6 @@ Who was actually called in the last month?
 
 If you raised your hand on the second but not on the third, well you are living the dream:
 "Money for nothing and chips for free"
-
 
 ---
 Menu
@@ -242,13 +240,7 @@ make sure to leave time to decide what to do about it as well
 The Blame Game is a useless game, don't play it!
 
 Note:
-<---- Wrong metaphor, find a better one!
-
-responsibility is a bit like a drink spilled on the floor:
-it spreads the more you look at it, from the small mistakes of one or a few individuals
-to practices, processes and entire organizations.
-You don't want to mop the spilled drink right away, let it spread until it is even and
-everyone has their feet a bit wet.
+The nurse and the child patient story
 
 There is always some lesson to learn for the future
 
@@ -514,18 +506,16 @@ wider product decisions.
 This is just the beginning
 --------------------------
 
-<---- inspiring image
-
-<---- or Filo / Estia again?
-
 ---
 Resources
 ---------
-- Julia Evans's twitter storm
-- best practices for RCA, look into Daniel Bryant's twitter / blog?
-- something good on Data Quality
+- [Julia Evans: What can developers learn from being on call?](https://jvns.ca/blog/2017/06/18/operate-your-software/)
+- [Charity Majors on Twitter](https://twitter.com/mipsytipsy/status/847508734188191745)
+- [Coursera: Unethical Decision Making in Organizations](https://www.coursera.org/learn/unethical-decision-making)
+- [Laura Sebastian-Coleman: Measuring Data Quality for Ongoing Improvement](https://www.elsevier.com/books/measuring-data-quality-for-ongoing-improvement/sebastian-coleman/978-0-12-397033-6)
 
-<- redash page and Arik's podcast episode>
+Note:
+this is an opinionated selection
 
 ---?image=assets/tough-love.jpg&size=auto 95%
 
