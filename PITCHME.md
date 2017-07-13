@@ -15,12 +15,13 @@ Daniele Rapati
 [github/danielerapati](https://github.com/danielerapati)
 
 Note:
-I am Daniele. I work for notonthehighstreet in Richmond. We are a marketplace for small creative businesses.
+HI, I am Daniele. I work for notonthehighstreet in London.
+notonthehighstreet.com is a marketplace for small creative businesses.
 
-Richmond is the best part of London, there are incredible parks and river-side pubs.
+Richmond is one of the best parts of London, there are incredible parks and river-side pubs.
 It doesn't feel like London at all, it feels like a country village,
 just inhabited by ambassadors and rich bankers' wifes and tech companies.
-Also it is where the Rolling Stones formed and some of us care a lot about the Rolling Stones.
+Also Richmond is where the Rolling Stones formed and some of us care a lot about the Rolling Stones.
 
 ---
 
@@ -29,7 +30,7 @@ Also it is where the Rolling Stones formed and some of us care a lot about the R
 
 Note:
 this is a talk about carrying a pager, being available to respond in case something breaks, being on call.
-If you are a devops or a developer you might already know something about it and if you are a data engineer
+If you are a devops or a developer you might already know something about this argument and if you are a data engineer
 I am going to make a case for why you should care about this.
 
 But I also talk quite seriously about a tv series and there is an embarrassingly high number of pictures of my cats.
@@ -42,7 +43,7 @@ Who was on call in the last month?
 
 Who was actually called in the last month?
 
-If you raised your hand before but not now, well you are living the dream:
+If you raised your hand on the second but not on the third, well you are living the dream:
 "Money for nothing and chips for free"
 
 
@@ -121,12 +122,14 @@ the phone rang around 1:15 in the morning Thursday last week
 > S.O.D.
 
 Note:
-grab a brush and put a little makeup,
+...
 hide the scars and fade away the shakeup
 have you left your keys on the table?
 
-get to your computer, make coffee or tea, make sure you are awake
+before you get to your computer, make sure you are awake
+make coffee or tea, walk off the sleep a bit
 
+small rituals can help you enter the "incident" state of mind even during office hours
 +++
 gather information
 
@@ -504,7 +507,7 @@ but also examine if it is useful, if it can be improved, if you need to update i
 or remove it.
 Classify alerts by system, business area, type of error and priority.
 Ideally every new feature or bug has some monitoring and alerting attached.
-Use these information to guide your decisions, both technical decisions and
+Use the information to guide your decisions, both technical decisions and
 wider product decisions.
 
 +++
@@ -535,7 +538,7 @@ Note:
 thank you particularly to those ops, dev-ops and engineers who have been on-call for years
 and have kept our systems running with their work and dedication and sheer force of will.
 
-Thank you Olivier, Henrique, Gregory, Justin, Tom, Ozskar, Alexander, Piotr and Allan.
+Thank you Olivier, Henrique, Gregory, Justin, Tom, Antonio, Ozskar, Alexander, Piotr and Allan.
 
 ---
 
