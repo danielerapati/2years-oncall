@@ -16,12 +16,13 @@ Daniele Rapati
 
 Note:
 HI, I am Daniele. I work for notonthehighstreet in London.
-notonthehighstreet.com is a marketplace for small creative businesses.
+notonthehighstreet.com is a **marketplace** for **small creative businesses**.
 
-Richmond is one of the best parts of London, there are incredible parks and river-side pubs.
+**Richmond** is one of the best parts of London, there are incredible parks and river-side pubs.
 It doesn't feel like London at all, it feels like a country village,
 just inhabited by ambassadors and rich bankers' wifes and tech companies.
-Also Richmond is where the Rolling Stones formed and some of us care a lot about the Rolling Stones.
+
+Also Richmond is where the **Rolling Stones** formed and some of us care a lot about the Rolling Stones.
 
 ---
 
@@ -32,10 +33,10 @@ this is a talk about carrying a pager, being available to respond in case someth
 If you are a devops or a developer you might already know something about this topic and if you are a data engineer
 I am going to make a case for why you should care about this.
 
-But I also talk quite seriously about a TV series and there is an embarrassingly high number of pictures of my cats.
+But I will also talk about a TV series and there is an embarrassingly high number of pictures of my cats.
 
 As usual for a Friday evening talk I'm going to warm you up by asking a question
-and you are going to raise your hands to answer.
+and you are going to **raise your hands** to answer.
 Who is on call right now?
 
 Who was on call in the last month?
@@ -83,6 +84,9 @@ but it secretly hates you ...
 
 +++?image=assets/i-hate-you-human-cropped.jpg&size=auto 90%
 
+Note:
+... so it will call at the most inopportune times
+
 +++?image=assets/hestia-asks-cropped.jpg&size=auto 90%
 
 Note:
@@ -92,6 +96,9 @@ Note:
 Ownership
 ---------
 being responsible for a system
+
+Note:
+**knowledge** inside-out, even the parts you did not develop
 
 +++
 Rewards
@@ -109,7 +116,7 @@ What do you do when the phone rings?
 </div>
 Note:
 << underlying story: call on 6th July 2017 >>
-the phone rang around 1:15 in the morning Thursday last week
+the phone rang at 1:15 in the morning Thursday last week
 
 +++
 
@@ -117,7 +124,7 @@ the phone rang around 1:15 in the morning Thursday last week
 >
 > grab a brush and put a little makeup"
 >
-> S.O.D.
+> SOAD
 
 Note:
 ...
@@ -127,6 +134,7 @@ have you left your keys on the table?
 before you get to your computer, make sure you are awake
 make coffee or tea, walk off the sleep a bit
 
+**transition**
 small rituals can help you enter the "incident" state of mind even during office hours
 +++
 gather information
@@ -148,6 +156,9 @@ assess the consequences
 
 (if necessary) inform stakeholders
 
+Note:
+**be nice**
+
 +++
 "Why?"
 ------
@@ -158,10 +169,10 @@ is the WRONG question
 ---------------------
 
 Note:
-don't ask why it is happening, really don't ask it, it is not important right now,
-if you ask it you are going to spend an unknown amount of time on this question ...
-(this might involve looking for the little curious developer monkey in your brain
-  and, gently but firmly, putting her or him back to sleep)
+don't ask why it is happening, really don't ask it, it is **not important right now**,
+if you ask it you are going to **spend an unknown amount of time** on this question ...
+(this might involve looking for the primal developer instinct in your brain
+  and, gently but firmly, putting it back to sleep)
 
 +++
 Log as you go along
@@ -173,8 +184,8 @@ Log as you go along
 ![Slack Bad Decision](assets/slack-log2.png)
 
 Note:
-document what you found, what you are doing, what you are thinking, why you think it,
-this is invaluable (especially if you are preparing a talk on being on call)
+document what you find, what you are doing, what you are thinking, why you think it,
+this is **invaluable** (**especially if you are preparing a talk on being on call**)
 
 +++
 Act: resolve
@@ -232,6 +243,7 @@ too much detail, just one slide
 - prioritize actions based on impact
 
 Note:
+**detective** hat on
 this is when you can ask "Why" as much as you want
 make sure to leave time to decide what to do about it as well
 
@@ -240,7 +252,7 @@ make sure to leave time to decide what to do about it as well
 The Blame Game is a useless game, don't play it!
 
 Note:
-The nurse and the child patient story
+The **nurse and the child patient story**
 
 There is always some lesson to learn for the future
 
@@ -248,12 +260,12 @@ There is always some lesson to learn for the future
 Insights
 --------
 
-Incidents are more frequent at junctures
+Incidents are more frequent at junctions
 
 ![Sdeng](assets/incident.jpg)
 
 Note:
-Especially if the juncture is with a third party, where communication is more scarce
+Especially if the junction is with a third party, where communication is more scarce
 and easily ignored.
 Watch out for points of friction in internal communication as well.
 
@@ -267,8 +279,8 @@ Insights
 Alert messages are important documentation
 
 Note:
-care for your error messages, keep them updated, make sure you read them and
-include everything that can help you during an incident: checklists, lessons learned, encouragement ...
+**care for your error messages**, keep them updated, make sure you read them and
+include everything that can help you during an incident: **checklists**, **lessons learned**, **encouragement** ...
 
 We fixed the root cause by renaming the failing field and scheduling to go through all
 fields we use to see if Google deprecated any other.
@@ -286,7 +298,7 @@ Downton Abbey is a TV show about a wealthy aristocrat British family in the
 first half of the 20th century. It is wonderfully acted, the costumes and settings
 are amazing ... and it is right on target with our audience. Very British.
 
-So much on target that when we placed a nice advert during the first episode of the season
+So much on target that when we placed an advert during the first episode of the season
 in October 2015, on a Sunday evening, the additional traffic and sales brought our website down.
 In less than 15 minutes after the advert aired.
 And again an hour later when it aired on the +1 channel.
@@ -301,25 +313,29 @@ and coordinated enough on when replication between environments would stop.
 
 Our networks and databases expert devops, the semi-mythical hero who knew how to solve
 the replication problem, was on a plane back from Russia. He landed late Sunday evening and, as soon
-as he turned on the phone ... lets say he was in high demand ...
+as he turned on the phone he received so many calls his battery died before he got home.
 
 <--- Why did we care?
 Two incidents at the same time: one on our consumer website and one crippling the data infrastructure.
 The same data infrastructure that we would have used to estimate the impact of the main incident.
 
 <--- Monday ... I don't like Mondays
-Monday was a difficult day. I don't like Mondays.
-On a normal Monday our data infrastructure sees the most usage as it is both our busiest trading day
+This was Sunday evening, the next day was a Monday.
+On Monday our data infrastructure sees the most usage as it is both our busiest trading day
 and the day we look back at the past week and plan for the one starting.
+I do not like Mondays.
 And this was not a normal Monday.
 
-At the time when we were a lot more inexperienced than today and we learned a lot from
-these events. We learned as an organization and as a team and we changed. Lets talk about that.
+At the time when we were **a lot more inexperienced than today** and we learned a lot from
+these events. We **learned** as an **organization** and as a **team** and we **changed**. Lets talk about that.
 
 ---
 
 Is it worth reacting to errors as soon as they happen?
 ------------------------------------------------------
+
+Note:
+how do you answer this question?
 
 +++
 
@@ -327,11 +343,11 @@ Is it worth reacting to errors as soon as they happen?
 - Dependencies
 
 Note:
-Lets start from the __Consequences__
+You start from the __Consequences__
 
-Who is affected by your service being unavailable or wrong?
-Do they depend on your service? How? How much? What would they have to do to work around the problem?
-What will they not know? Can they wait? How long? At what cost?
+**Who is affected** by your service being unavailable or wrong?
+Do they **depend** on your service? How? How much? What would they have to do to work around the problem?
+What will they not **know**? Can they **wait**? How long? At what **cost**?
 
 In 2015 we were realizing that our data infrastructure was increasingly a dependency
 for our coworkers, especially as a source of information for making decisions.
@@ -341,13 +357,13 @@ for our coworkers, especially as a source of information for making decisions.
 When you are offering external services
 
 Note:
-You most likely want to support public facing services with an on-call policy.
-Because you cannot control how much external people depend on you, you might have contracts
-in place and your revenue might depend on the service you are offering.
+You probably want to support public facing services with an on-call policy.
+Because you **cannot control** how much external people depend on you, you might have **contracts**
+in place and your **revenue** might depend on the service you are offering.
 
-In 2016 we started offering to our partners, the businesses that sell on the notonthehighstreet marketplace,
-access to a rich dashboard with their sales figures and multiple statistics on how their
-products are performing.
+In 2016 we started offering to our **partners**, the businesses that sell on the notonthehighstreet marketplace,
+access to a **rich dashboard** with their **sales** figures and multiple statistics on how their
+**products are performing**.
 
 At this point there was no more space to go back on on-call and support policy
 
@@ -356,15 +372,16 @@ Increasing Trust internally
 
 Note:
 But even for internal services there can be a strong benefit
-Your coworkers will have to worry less and less about limitations with
-the tools and data they are using. They will see benefits in their daily work
+Your **coworkers** will have to **worry less** and less about limitations with
+the tools and data they are using. **Spend less time checking.
+They will see benefits in their daily work
 and will increase their trust not only in your services but in the team as a whole.
 
 It is not just about keeping happy Mr Carson, the Butler.
 We also want Daisy the assistant cook the be the best she can be at her job.
 
 You might pay this increase in trust, and supporting an external service,
-with less control on your priorities and less agility as you have to react more.
+with **less control on your priorities** and **less agility** as you have to react more.
 
 +++
 
@@ -377,10 +394,10 @@ Allow others to build on solid ground
 Note:
 (this is the message!!!)
 
-but in the end it will be worth it because you are enabling others to rely on your
-tools and data enough to build upon them. Their success depends on your stability
-and you will be surprised by the brilliant, creative, unexpected ways they will
-use your product if they can rely on it, if they can trust it.
+but in the end it will be worth it
+because you are **enabling others** to **rely** on your tools and data **enough to build** upon them.
+**Their success depends** on your stability and you will be surprised by the
+**brilliant, creative, unexpected ways** they will use your product if they can trust it.
 Enabling others.
 
 Nothing else matters.
@@ -401,7 +418,7 @@ How do you make sure the phone rings when it should?
 Note:
 so having an on-call is worth the pain
 << underlying story: Downton Abbey 2015, the days, weeks, months after >>
-What did we do in the days, weeks, months after the Downton Abbey debacle?
+What did we do in the days, weeks, months after the Downton Abbey debacle to make it work?
 
 +++
 Alerting
@@ -415,18 +432,22 @@ Alerting
 - incident response documentation
 
 Note:
-the very basic is having a system that sends an email when a certain program fails
+the **very basic** is getting an **email** when a certain program fails
 
 and that is what we had at the time
 
-from that you can build, integrate with a real alerting tool that will page you
-on your phone and wake you up
+from that you can build, integrate with a tool that will page you
+on your phone and wake you up.
 
-You can also send lower priority alerts and messages to a chat tool so you have
+You can do it yourself with Twilio if you want.
+
+You can also **send lower priority alerts and messages to a chat tool** so you have
 a timeline of events in one place and you can comment on them, keep a log of incidents, etc.
 
 Make sure your logs are accessible to the persons responding to incidents and they know
 how to access them and how to operate the systems during an incident
+
+**training and documentation**
 
 +++
 Monitoring: Systems
@@ -439,8 +460,8 @@ if you care about something measure it and graph it
 </div>
 
 Note:
-the next step is moving from gathering information only during failures to a
-continuous flow of metrics and statistics:
+the next step is moving from gathering information only during failures to
+collecting metrics and statistics all the time.
 From technical information like how many jobs run, how long did they take,
 how much cpu, ram and disk, how much data moved, how much disk space left
 to more high level information like how many pages
@@ -448,7 +469,7 @@ served, how many purchases, how many customers served, etc.
 
 You can then plug your alerting on top of your monitoring rather than explicitly trigger alerts.
 
-<The system we use for this is Datadog, there are multiple alternatives, both paid and free.>
+<The system we use for this is **Datadog**, there are multiple alternatives, both paid and free.>
 
 +++?image=assets/1972-11-21.jpg&size=auto 95%
 
@@ -465,7 +486,7 @@ Data Quality
 </div>
 
 Note:
-The next step, and is really a powerful step, is monitoring your data itself.
+The next step is **monitoring your data itself**.
 Your business data and your monitoring data.
 Is 20K customers on the site at the same time normal for a Sunday evening?
 Have we received the data we expected from Google Analytics? Was there a high ratio of
@@ -475,9 +496,11 @@ I cannot stress enough how powerful this way of looking at your data can be. It 
 basically an early warning system for your organization and for your computer systems
 combined.
 
-There is a lot of literature on Data Quality if this argument picks your interest.
+There is a **lot of literature on Data Quality** if this argument picks your interest.
+And ignore the association with some big old software vendors: these concepts are
+general and not dependant on technologies.
 
-<The system we use for monitoring our business data is redash, by Arik Frahimovich.
+<The system we use for monitoring our business data is **redash**, by Arik Frahimovich.
 I really advise you to check out redash, especially if you are interested in
 making your data accessible to a wider internal audience.
 It is a wonderful Python tool for Data Democratization
@@ -490,16 +513,15 @@ Alert Fatigue
 - Zealousness and Discipline
 
 Note:
-So now we have lots of checks and alerts that can trigger.
+So now we have **lots of checks and alerts** that can trigger.
 Some require immediate action, other can wait.
-There are so many and a single person cannot know them all.
 And maybe some we can ignore ...
 Don't get Comfortably Numb! Read each alert, respond to it,
 but also examine if it is useful, if it can be improved, if you need to update it
 or remove it.
-Classify alerts by system, business area, type of error and priority.
-Ideally every new feature or bug has some monitoring and alerting attached.
-Use the information to guide your decisions, both technical decisions and
+**Classify alerts** by system, business area, type of error and priority.
+Ideally **every new feature** or bug has some monitoring and alerting attached.
+Use the information to **guide your decisions**, both technical decisions and
 wider product decisions.
 
 +++
@@ -515,7 +537,7 @@ Resources
 - [Laura Sebastian-Coleman: Measuring Data Quality for Ongoing Improvement](https://www.elsevier.com/books/measuring-data-quality-for-ongoing-improvement/sebastian-coleman/978-0-12-397033-6)
 
 Note:
-this is an opinionated selection
+this is an **opinionated selection**
 
 ---?image=assets/tough-love.jpg&size=auto 95%
 
