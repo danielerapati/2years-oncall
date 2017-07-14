@@ -46,17 +46,15 @@ Who was actually called in the last month?
 If you raised your hand on the second but not on the third, well you are living the dream:
 "Money for nothing and chips for free"
 
----
-Menu
-----
-<--- style this slide as a restaurant menu
+---?image=assets/menu.jpg&size=75% 100%
 
-- Definition of on-call
-- Advice on what to do when called
-- Prevention (our "Day After" special)
-- Motivations for on-call
-- Alerting Practices
-
+<ul style="list-style-type:none; color: #565656; font-family: 'FontAwesome'; line-height: 1.6">
+<li>Definition of on-call</li>
+<li>Advice on what to do when called</li>
+<li>Prevention (our "Day After" special)</li>
+<li>Motivations for on-call</li>
+<li>Alerting Practices</li>
+</ul>
 +++
 Stories
 ------------
