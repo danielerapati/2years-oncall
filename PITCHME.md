@@ -237,8 +237,8 @@ too much detail, just one slide
 
 +++
 - gather information (time-lines)
-- find causes
-- prioritize actions based on impact
+- find causes                        |
+- prioritize actions based on impact |
 
 Note:
 **detective** hat on
@@ -338,7 +338,7 @@ how do you answer this question?
 +++
 
 - Impact
-- Dependencies
+- Dependencies |
 
 Note:
 You start from the __Consequences__
@@ -423,11 +423,11 @@ Alerting
 --------
 - basic tools: email, chat
 
-- specialized applications: PagerDuty, OpsGenie, Twilio, etc.
+- specialized applications: PagerDuty, OpsGenie, Twilio, etc. |
 
-- accessible logs
+- accessible logs                                             |
 
-- incident response documentation
+- incident response documentation                             |
 
 Note:
 the **very basic** is getting an **email** when a certain program fails
